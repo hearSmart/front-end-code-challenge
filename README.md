@@ -29,18 +29,6 @@ The result range categories are as follows:
 - 6 - 8 correct: Mild
 - 9 - 10 correct: Normal
 
-### Submission 
-The results have to be shared as a git repository
-
-You can either create a private repository on your favourite git hosting provider and then give access to:
-
-- seline@hearxgroup.com
-- thomas@hearxgroup.com
-
-Or create a public repository and send the link to both of these email addresses
-Or send the whole repository, zipped (including the .git directory) to both of these email addresses
-Please only submit your work when it is completely done!
-
 ### Remarks 
 
 Treat this as a production ready application. Update the readme to include steps on how to build, run and test the app. 
@@ -64,3 +52,16 @@ We are looking for in your submission:
 - Use Angular 6
 - You may use any JS libraries you want
 - You may not use any CSS frameworks
+
+
+### Submission 
+The results have to be shared as a git repository
+
+You can either create a private repository on your favourite git hosting provider and then give access to:
+
+- seline@hearxgroup.com
+- thomas@hearxgroup.com
+
+Or create a public repository and send the link to both of these email addresses
+Or send the whole repository, zipped (including the .git directory) to both of these email addresses
+Please only submit your work when it is completely done!
