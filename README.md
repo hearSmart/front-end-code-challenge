@@ -16,7 +16,7 @@ The look and feel of the application is up to you, surprise us!
 
 ### Testing procedure
 
-The patient will be presented with a set of tones (once per freqency, per ear), when the patient hears a tone, they should press the button to indicate they heard the tone. Between each frequency presentation a jitter from 300ms to 1s (period of silence) will be presented to the patient (the start of the test should also have a silence jitter). The tone should only be played for 1s. 
+The patient will be presented with a set of tones (once per frequency, per ear), when the patient hears a tone, they should press the button to indicate they heard the tone. Between each frequency presentation a jitter from 300ms to 1s (period of silence) will be presented to the patient (the start of the test should also have a silence jitter). The tone should only be played for 1s. 
 
 #### Example 
 -- 740ms silence --- 1s of 100Hz tone (left ear)  --- 350ms silence --- 1s of 100Hz tone (right ear) --- 640ms silence --- 1s of 250Hz tone (left ear)  ... etc
@@ -35,7 +35,7 @@ Treat this as a production ready application. Update the readme to include steps
 
 You are encouraged to include some notes about the aspects you didn't get time to complete and how you would plan to further develop/improve the application given more time. Please include them in this readme rather than in an email so that others can see them when we share your work internally.
 
-We are looking for in your submission:
+What we are looking for in your submission:
 
 - Good design decisions
 - Creativity
@@ -55,7 +55,7 @@ We are looking for in your submission:
 
 
 ### Submission 
-The results have to be shared as a git repository
+The results have to be shared as a git repository.
 
 You can either create a private repository on your favourite git hosting provider and then give access to:
 
