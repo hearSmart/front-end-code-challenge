@@ -16,10 +16,10 @@ The look and feel of the application is up to you, surprise us!
 
 ### Testing procedure
 
-The patient will be presented with a set of tones (once per frequency, per ear), when the patient hears a tone, they should press the button to indicate they heard the tone. Between each frequency presentation a jitter from 300ms to 1s (period of silence) will be presented to the patient (the start of the test should also have a silence jitter). The tone should only be played for 1s. 
+The patient will be presented with a set of tones (once per frequency, per ear), when the patient hears a tone, they should press the button to indicate they heard the tone. Between each frequency presentation a jitter from 3s to 5s (period of silence) will be presented to the patient (the start of the test should also have a silence jitter). The tone should only be played for 1s. 
 
 #### Example 
--- 740ms silence --- 1s of 100Hz tone (left ear)  --- 350ms silence --- 1s of 100Hz tone (right ear) --- 640ms silence --- 1s of 250Hz tone (left ear)  ... etc
+-- 3740ms silence --- 1s of 100Hz tone (left ear)  --- 3350ms silence --- 1s of 100Hz tone (right ear) --- 4640ms silence --- 1s of 250Hz tone (left ear)  ... etc
 
 #### Result range categories
 A tone presentation is considered a pass if the user responds during the 1s of the tone presentation (not during jitter), otherwise that tone presentation is considered a fail. 
@@ -63,5 +63,7 @@ You can either create a private repository on your favourite git hosting provide
 - thomas (AT) hearxgroup (DOT) com
 
 Or create a public repository and send the link to both of these email addresses
+
 Or send the whole repository, zipped (including the .git directory) to both of these email addresses
+
 Please only submit your work when it is completely done!
