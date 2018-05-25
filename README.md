@@ -59,8 +59,8 @@ The results have to be shared as a git repository
 
 You can either create a private repository on your favourite git hosting provider and then give access to:
 
-- seline@hearxgroup.com
-- thomas@hearxgroup.com
+- seline (AT) hearxgroup (DOT) com
+- thomas (AT) hearxgroup (DOT) com
 
 Or create a public repository and send the link to both of these email addresses
 Or send the whole repository, zipped (including the .git directory) to both of these email addresses
