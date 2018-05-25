@@ -1,5 +1,4 @@
 # Front End Development Challenge
-=================================
 
 ## Overview
 You'll be building a fake web hearing screener app built in angular!
