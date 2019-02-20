@@ -1,15 +1,15 @@
 # Front End Development Challenge
 
 ## Overview
-You'll be building a fake web hearing screener app built in angular!
+You'll be building a hearing screening app built!
 
 ## Design and behaviour
 In this repo there are 5 wav files for use in the app (100Hz, 250Hz, 440Hz, 1kHz, 10kHz). 
 
 - The first screen will consist of a button with text START. 
 - Upon clicking the START button - download the relevant audio files needed for the test. Show a progress bar for indicating download progress.
-- When all the files have been downloaded, ask the patient for their first name and email address. Validation should be done on these two inputs. If the form is valid, the button titled NEXT becomes active. 
-- Clicking NEXT makes the testing procedure start - In the center of the screen there is a button with an ear icon. 
+- When all the files have been downloaded, ask the patient for their first name and email address. Validation should be done on these two inputs. If the form is valid, the button titled NEXT becomes active, otherwise should show the relevant validation errors and disable the next button. 
+- Clicking NEXT makes the testing procedure start (See below for testing procedure) - In the center of the screen there is a button with an ear icon. 
 - On completion of the test, a message should be shown to the user stating their final result (as percentage with category described in Result range categories) with their first name and email address.
 
 The look and feel of the application is up to you, surprise us!
@@ -49,8 +49,8 @@ What we are looking for in your submission:
 - Unit/e2e tests
 
 ### Restrictions
-- Use Angular 6
-- You may use any JS libraries you want
+- Use Angular 6 or Vue.js
+- You may use any JS/TS libraries you want
 - You may not use any CSS frameworks
 
 
