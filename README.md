@@ -1,7 +1,7 @@
 # Front End Development Challenge
 
 ## Overview
-You'll be building a hearing screening app built!
+You'll be building a hearing screening web app!
 
 ## Design and behaviour
 In this repo there are 5 wav files for use in the app (100Hz, 250Hz, 440Hz, 1kHz, 10kHz). 
